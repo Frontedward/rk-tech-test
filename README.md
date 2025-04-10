@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL репозитория]
+git clone https://github.com/Frontedward/rk-tech-test.git
 ```
 
 2. Установите зависимости:
